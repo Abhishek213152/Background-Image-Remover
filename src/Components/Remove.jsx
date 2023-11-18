@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+
 import './Remove.css'; // Make sure to import your CSS file
 
 const Remove = () => {
